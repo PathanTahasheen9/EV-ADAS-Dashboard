@@ -44,6 +44,7 @@ Ultrasonic Sensors
           │
           ▼
    Python Dashboard
+   ```
    
 🔧 Hardware Components
 
